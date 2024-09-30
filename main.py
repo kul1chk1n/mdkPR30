@@ -1,1 +1,2 @@
-print('patch1')
+print('patch2')
+print('izmenen')
