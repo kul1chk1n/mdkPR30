@@ -1,2 +1,1 @@
-name = input("Ваше имя: ")
-print('Hello World!', name)
+print('patch1')
